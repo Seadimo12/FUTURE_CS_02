@@ -20,4 +20,4 @@ The goal of this task was to analyze phishing email samples and identify common 
 
 ## Files Included
 
-* Phishing_Detection_Report.docx – Full phishing detection and awareness report
+* CS_Task_2.docx – Full phishing detection and awareness report
